@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Segundo Post"
-date: 2014-10-15 19:24:22 -0500
+title: Segundo Post
+date: "2014-10-15 19:24:22 -0500"
 comments: true
-categories: 
+categories: null
+published: true
 ---
 
-Lorem ipsum dolor sit amet, eu vix porro corrumpit scriptorem. Mel ne veritus moderatius intellegebat. Sit ad agam nibh nonumes, eu per justo simul. Elit tation in nec, vix te eros vero perfecto.
+Lorem ipsum dolor sit amet, eu vix porro corrumpit scriptorem. Mel ne veritus moderatius intellegebat. Sit ad agam nibh nonumes, eu per justo simul. Elit tation in nec, vix te eros vero.
 
 Timeam quaeque ius te, ius quod officiis cu. Tota autem epicuri eos an, an discere sanctus adipisci duo. Pro eu sumo congue comprehensam, sed posse essent facilis ut. Ut est fabulas signiferumque, tale vivendum cu sit, duo congue regione officiis eu. Ius ornatus copiosae ex, iusto fuisset corrumpit eu has, per eu iisque aeterno. Id mediocritatem conclusionemque pri, meis vidisse vel cu.
 
